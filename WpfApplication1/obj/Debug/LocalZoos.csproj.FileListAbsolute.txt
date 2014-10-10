@@ -1,0 +1,12 @@
+C:\Users\Casa\documents\visual studio 2012\Projects\WpfApplication1\WpfApplication1\bin\Debug\LocalZoos.exe.config
+C:\Users\Casa\documents\visual studio 2012\Projects\WpfApplication1\WpfApplication1\bin\Debug\LocalZoos.exe
+C:\Users\Casa\documents\visual studio 2012\Projects\WpfApplication1\WpfApplication1\bin\Debug\LocalZoos.pdb
+C:\Users\Casa\documents\visual studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\Casa\documents\visual studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\Casa\documents\visual studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\Casa\documents\visual studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\LocalZoos_MarkupCompile.cache
+C:\Users\Casa\documents\visual studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\LocalZoos.g.resources
+C:\Users\Casa\documents\visual studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\LocalZoos.Properties.Resources.resources
+C:\Users\Casa\documents\visual studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\LocalZoos.csproj.GenerateResource.Cache
+C:\Users\Casa\documents\visual studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\LocalZoos.exe
+C:\Users\Casa\documents\visual studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\LocalZoos.pdb
